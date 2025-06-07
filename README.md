@@ -1,4 +1,4 @@
-- 👋 Hi, I’m S.R.S.V Karthik
+- 👋 Hi, I’m SRSV Karthik
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently studying
 - 💞️ I’m looking to collaborate on ...
